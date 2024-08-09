@@ -41,5 +41,7 @@ I am Massinissa Amalou, a 10 year professional IT & solution Architect and softw
 - Video games 🎮
 
 ### ⚡️ statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meastblue&show_icons=true&layout=donut&theme=transparent)]
-![Stats](https://github-readme-stats.vercel.app/api?username=meastblue&show=reviews,&theme=transparent&show_icons=true)
+<div>
+  <img height="200px" src="https://streak-stats.demolab.com/?user=meastblue&theme=transparent" alt="GitHub Streak" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meastblue&layout=donut&theme=transparent" alt="Top Langs" />
+</div>
